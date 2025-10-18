@@ -4,11 +4,10 @@
 
 @section('content')
     <h2>Liên Hệ</h2>
-    <p>Địa chỉ: 123 Đường Cà Phê, Thành phố</p>
+    <p>Địa chỉ: 123 Tôn Đức Thắng, Đà Nẵng</p>
     <p>Phone: 0123 456 789</p>
 
-    <h3>Gửi tin nhắn cho chúng tôi</h3>
-    <!-- Form HTML đơn giản, chưa cần xử lý logic -->
+    <h3>Feedback for us</h3>
     <form action="#" method="post">
         <label>Tên</label><br>
         <input type="text" name="name" required><br><br>
