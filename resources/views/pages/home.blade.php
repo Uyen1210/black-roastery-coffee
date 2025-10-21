@@ -4,7 +4,7 @@
 
 @section('content')
     <div class="banner">
-        <h2>Chào mừng đến với Neyu Roastery Coffee</h2>
+        <h2>Chào mừng đến với BLACK Roastery Coffee</h2>
         <p>Khám phá những ly cà phê mang hương vị vũ trụ.</p>
     </div>
 
