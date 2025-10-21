@@ -4,14 +4,14 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Neyu Roastery Coffee - @yield('title')</title>
+    <title>BLACK Roastery Coffee - @yield('title')</title>
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
     <style>
-        /* vài style nhanh nếu không dùng Tailwind */
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
+            background-color: #e0c4a0;
         }
 
         .container {
@@ -22,7 +22,7 @@
 
         header,
         footer {
-            background: #222;
+            background: #230808;
             color: #fff;
             padding: 12px 0;
         }
@@ -34,7 +34,10 @@
         }
 
         .banner {
-            background: #f3f3f3;
+            background: url('https://i.pinimg.com/736x/84/68/21/846821f2a4c02ff5adb3599b00c4915a.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+            color: rgb(248, 239, 229);
             padding: 40px;
             text-align: center;
             border-radius: 8px;

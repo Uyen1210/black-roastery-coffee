@@ -80,6 +80,20 @@ class PageController extends Controller
             'notes' => 'Vị ngọt caramel, sô cô la và một chút hương cam.',
             'image' => 'images/colombia.jpg'
         ],
+        [
+            'id' => 3,
+            'name' => 'Hạt Robusta (Việt Nam)',
+            'origin' => 'Tây Nguyên, Việt Nam',
+            'notes' => 'Vị đắng đặc trưng, đậm đà, hương thơm nồng, thoảng mùi đất và ngũ cốc rang.',
+            'image' => 'images/robusta.jpg'
+        ],
+        [
+            'id' => 4,
+            'name' => 'Hạt Arabica (Brazil)',
+            'origin' => 'Minas Gerais, Brazil',
+            'notes' => 'Vị chua thanh, ngọt ngào, hương thơm của hoa và trái cây, phảng phất mùi sô cô la hạt.',
+            'image' => 'images/arabica.jpg'
+        ]
 
     ];
 

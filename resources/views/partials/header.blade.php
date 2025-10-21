@@ -42,7 +42,7 @@
     }
 
     header {
-        background-color: #000000;
+        background-color: #2a0a0a;
         color: white;
         padding: 15px 0;
     }
